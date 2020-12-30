@@ -55,7 +55,6 @@ echo ${PathFile}
 
 
 
-
 echo ${muidUs}
 echo ${mids}
 echo "${dates}-${fileName}"
